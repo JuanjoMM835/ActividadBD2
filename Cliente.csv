@@ -1,0 +1,21 @@
+idCliente;nombre;edad;telefono;sexo;correo
+1;Juan Pérez;34;555-1234;M;juan.perez@email.com
+2;Ana García;29;555-5678;F;ana.garcia@email.com
+3;Luis Rodríguez;45;555-8765;M;luis.rodriguez@email.com
+4;Marta López;51;555-4321;F;marta.lopez@email.com
+5;Pedro Martínez;39;555-1122;M;pedro.martinez@email.com
+6;Laura Sánchez;28;555-9988;F;laura.sanchez@email.com
+7;Carlos Gómez;60;555-3344;M;carlos.gomez@email.com
+8;María Fernández;37;555-2211;F;maria.fernandez@email.com
+9;José Díaz;40;555-5555;M;jose.diaz@email.com
+10;Beatriz Ruiz;33;555-7788;F;beatriz.ruiz@email.com
+11;Javier Martínez;29;555-8899;M;javier.martinez@email.com
+12;Isabel Torres;42;555-6655;F;isabel.torres@email.com
+13;Raúl Jiménez;54;555-4433;M;raul.jimenez@email.com
+14;Carolina Díaz;31;555-2233;F;carolina.diaz@email.com
+15;Antonio Morales;47;555-1122;M;antonio.morales@email.com
+16;Sonia Castillo;24;555-7766;F;sonia.castillo@email.com
+17;Enrique Pérez;39;555-9977;M;enrique.perez@email.com
+18;Clara Ruiz;50;555-3344;F;clara.ruiz@email.com
+19;Roberto García;56;555-7788;M;roberto.garcia@email.com
+20;Patricia Moreno;32;555-1123;F;patricia.moreno@email.com
